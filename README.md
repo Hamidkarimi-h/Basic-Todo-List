@@ -1,6 +1,4 @@
 
-
-````markdown
 # PyQt6 ToDo Manager
 
 A simple and practical ToDo management application built with Python and PyQt6.  
