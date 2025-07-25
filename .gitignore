@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite database file 
+tasks_pyqt.db
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
